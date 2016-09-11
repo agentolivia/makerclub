@@ -33,6 +33,17 @@ If you are interested in learning robotics, Parallax sells educational robot kit
 
 https://www.parallax.com/
 
+## Online courses
+
+Coursera - [Create Your Own Internet of Things (IoT) Device specialization](https://www.coursera.org/specializations/iot)
+
+You can enroll in the specialization for a low price or audit each course individually for free. I've taken the following 2 courses so far which was enough to get me up and running and able to become conversant enough in the terms and concepts to search for resources on my own. Highly recommended.
+
+- **Introduction to the Internet of Things and Embedded Systems** — This is an excellent introduction to embedded systems. This is a really helpful course that will help you familiarize yourself with common terms and concepts associated with embedded systems and the Internet of Things. It really helped demystify a lot of terms. If you are totally new to Arduino and Raspberry Pi or even just have a vague notion of what they are about, I highly recommend watching the videos in this course.
+- **The Arduino Platform and C Programming** - This course will get you up and running with Arduino. (This course is where I learned about the Vilros Arduino kit, which you will need for this course. 
+
+
+
 
 
 
